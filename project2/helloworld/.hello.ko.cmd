@@ -1,0 +1,1 @@
+cmd_/home/cbauer/project2/helloworld/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/cbauer/project2/helloworld/hello.ko /home/cbauer/project2/helloworld/hello.o /home/cbauer/project2/helloworld/hello.mod.o
