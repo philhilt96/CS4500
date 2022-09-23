@@ -1,0 +1,8 @@
+# ignore everything except c file and Makefile in project 2
+/project2/**/*.order
+/project2/**/*.symvers
+/project2/**/*.ko
+/project2/**/*.mod.c
+/project2/**/*.mod.o
+/project2/**/*.o
+
