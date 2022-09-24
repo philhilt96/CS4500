@@ -1,2 +1,2 @@
-/home/cbauer/project2/helloworld/hello.ko
-/home/cbauer/project2/helloworld/hello.o
+/home/CS4500/project2/helloworld/hello.ko
+/home/CS4500/project2/helloworld/hello.o
